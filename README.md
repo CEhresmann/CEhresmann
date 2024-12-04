@@ -1,4 +1,4 @@
-              👋 Hi, I’m Tim
+👋 Hi, I’m Tim
 - Looking for a job as a golang backend developer.
 
 - 👀 I’m interested in computer science and curently studying in School 21 (Ecole 42 by Sber)
