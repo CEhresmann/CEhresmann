@@ -4,7 +4,7 @@
 - 👀 I’m interested in computer science and curently studying in School 21 (Ecole 42 by Sber)
 - 🎓 Pursuing a Bachelor's degree in philosophy at IKBFU.
 
-Main stack
+Main stack:
 Golang Fast Api PostgreSQL Redis Docker Linux Git CI/CD
 
 <!---
