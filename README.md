@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Tim<br><br>Looking for a job as a golang backend developer.<br><br>👀 I’m interested in computer science and curently studying in School 21 (Ecole 42 by Sber)<br><br>🎓 Pursuing a Bachelor's degree in philosophy at IKBFU
+👋 Hi, I’m Tim<br><br>golang backend developer.<br><br>👀 I’m interested in computer science and curently studying in School 21 (Ecole 42 by Sber)<br><br>🎓 Pursuing a Bachelor's degree in philosophy at IKBFU
 
 
 ## 🌐 Socials:
